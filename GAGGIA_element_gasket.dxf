@@ -2679,7 +2679,7 @@ textstyle7
 1001
 ACAD
 1000
-semeci1
+seiso
 1071
 0
   0
@@ -2711,7 +2711,7 @@ textstyle8
 1001
 ACAD
 1000
-seiso
+semeci1
 1071
 0
   0
@@ -3025,7 +3025,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-DMBLK3
+_Oblique
 340
 0
   0
@@ -3037,7 +3037,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-_Oblique
+DMBLK3
 340
 0
   0
@@ -4295,6 +4295,70 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
+_Oblique
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_Oblique
+  1
+
+  0
+LINE
+  5
+8C
+100
+AcDbEntity
+  8
+0
+ 62
+0
+370
+-2
+ 48
+1.0
+  6
+ByBlock
+100
+AcDbLine
+ 10
+-0.5
+ 20
+-0.5
+ 30
+0.0
+ 11
+0.5
+ 21
+0.5
+ 31
+0.0
+  0
+ENDBLK
+  5
+8D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+8E
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
 DMBLK3
  70
 0
@@ -4311,7 +4375,7 @@ DMBLK3
   0
 LINE
   5
-8C
+8F
 100
 AcDbEntity
   8
@@ -4343,7 +4407,7 @@ AcDbLine
   0
 LINE
   5
-8D
+90
 100
 AcDbEntity
   8
@@ -4375,7 +4439,7 @@ AcDbLine
   0
 HATCH
   5
-8E
+91
 100
 AcDbEntity
   8
@@ -4465,7 +4529,7 @@ ACAD
   0
 HATCH
   5
-8F
+92
 100
 AcDbEntity
   8
@@ -4555,7 +4619,7 @@ ACAD
   0
 TEXT
   5
-90
+93
 100
 AcDbEntity
   8
@@ -4587,7 +4651,7 @@ O
  41
 1.0
   7
-textstyle7
+textstyle8
  71
 0
  72
@@ -4605,7 +4669,7 @@ AcDbText
   0
 TEXT
   5
-91
+94
 100
 AcDbEntity
   8
@@ -4637,7 +4701,7 @@ AcDbText
  41
 1.0
   7
-textstyle9
+textstyle7
  71
 0
  72
@@ -4652,70 +4716,6 @@ textstyle9
 AcDbText
  73
 3
-  0
-ENDBLK
-  5
-92
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-93
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-_Oblique
- 70
-0
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  3
-_Oblique
-  1
-
-  0
-LINE
-  5
-94
-100
-AcDbEntity
-  8
-0
- 62
-0
-370
--2
- 48
-1.0
-  6
-ByBlock
-100
-AcDbLine
- 10
--0.5
- 20
--0.5
- 30
-0.0
- 11
-0.5
- 21
-0.5
- 31
-0.0
   0
 ENDBLK
   5
@@ -5063,7 +5063,7 @@ AcDbText
  41
 1.0
   7
-textstyle8
+textstyle9
  71
 0
  72
@@ -5859,7 +5859,7 @@ AcDbMText
  72
 1
   1
-\f24 Edge ISO|b0|i0|c0|p0;\C7;Suggested material: PTFE sheet \H9;2mm
+\f24 Edge ISO|b0|i0|c0|p0;\C7;Suggested material: PTFE sheet 3\H9;mm
   7
 textstyle1
  50
@@ -7767,7 +7767,7 @@ AcDbXrecord
 280
 1
  40
-164.7404132042387346
+130.5644279120102738
   0
 XRECORD
   5
@@ -7779,7 +7779,7 @@ AcDbXrecord
 280
 1
  40
-442.5097202104138887
+350.7095031572365542
   0
 ENDSEC
   0
