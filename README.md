@@ -1,5 +1,6 @@
 Suitable material to use would be 2mm PTFE sheet.
 
-# FAEMA-12hole-boiler-gasket-template
+# GAGGIA-boiler-element-gasket-template
 
-![Faema e61 12 hole boiler gasket](https://github.com/derekmccallum/FAEMA-12hole-boiler-gasket-template/assets/27998937/320e26c1-4317-467a-a2a3-9dea7935ecc4)
+![GAGGIA_element_gasket](https://github.com/derekmccallum/GAGGIA-boiler-element-gasket-template/assets/27998937/27a9ae0d-a8b3-43b4-99ea-497574484f79)
+
